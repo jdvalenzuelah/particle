@@ -52,7 +52,7 @@ x,v
 ### Data
 E = k + u
 E = 1/2*m*vo**2 + qV(x1)
-
+\sqrt(2)
 sqrt(2)*((sqrt((E-qV)/m))*m)+m**1/2*(sqrt(E-qV)))
 
 ### Usage example
