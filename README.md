@@ -49,6 +49,9 @@ x,v
 1,3
 ```
 
+### Data
+sqrt(2)*((sqrt((E-qV)/m))*m)+m**1/2*(sqrt(E-qV)))
+
 ### Usage example
 
 Let's simulate the movement of a particle with mass `9.10938188e10-31 Kg`, `−1.6021766208e10−19 C` and an initial velocity of `1.25e-6 m/s`.
